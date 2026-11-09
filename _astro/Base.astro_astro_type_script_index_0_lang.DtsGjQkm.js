@@ -1,0 +1,1 @@
+import{t as e}from"./motion.Ybge0-S7.js";e();var t=new IntersectionObserver(e=>e.forEach(e=>{if(!e.isIntersecting)return;let n=e.target;n.poster=n.dataset.poster,t.unobserve(n)}),{rootMargin:`900px 0px 900px 0px`});document.querySelectorAll(`video[data-poster]`).forEach(e=>t.observe(e));

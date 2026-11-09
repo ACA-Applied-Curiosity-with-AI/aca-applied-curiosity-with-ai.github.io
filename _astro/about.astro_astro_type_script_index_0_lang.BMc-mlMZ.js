@@ -1,0 +1,1 @@
+import{o as e}from"./seq.BPznuau7.js";document.querySelectorAll(`video[data-auto]`).forEach(t=>{e()?(t.removeAttribute(`autoplay`),t.pause()):new IntersectionObserver(([e])=>{e.isIntersecting?(t.preload=`auto`,t.play().catch(()=>{})):t.pause()}).observe(t)});

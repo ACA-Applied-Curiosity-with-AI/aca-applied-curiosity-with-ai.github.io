@@ -1,0 +1,98 @@
+{
+ "preset": "mobile",
+ "file": "liver-m.glb",
+ "bytes": 927068,
+ "triangles": 206360,
+ "meshes": [
+  {
+   "mesh": "liver_remnant",
+   "triangles_before": 234386,
+   "triangles_after": 42188
+  },
+  {
+   "mesh": "liver_territory",
+   "triangles_before": 64022,
+   "triangles_after": 11522
+  },
+  {
+   "mesh": "portal",
+   "triangles_before": 76498,
+   "triangles_after": 26774
+  },
+  {
+   "mesh": "portal_branch",
+   "triangles_before": 11518,
+   "triangles_after": 4030
+  },
+  {
+   "mesh": "hepatic",
+   "triangles_before": 109028,
+   "triangles_after": 32708
+  },
+  {
+   "mesh": "tumor",
+   "triangles_before": 44292,
+   "triangles_after": 11072
+  },
+  {
+   "mesh": "seg1",
+   "triangles_before": 8080,
+   "triangles_after": 8080
+  },
+  {
+   "mesh": "seg2",
+   "triangles_before": 78104,
+   "triangles_after": 9998
+  },
+  {
+   "mesh": "seg3",
+   "triangles_before": 68400,
+   "triangles_after": 10000
+  },
+  {
+   "mesh": "seg4",
+   "triangles_before": 60416,
+   "triangles_after": 9998
+  },
+  {
+   "mesh": "seg5",
+   "triangles_before": 114528,
+   "triangles_after": 9996
+  },
+  {
+   "mesh": "seg6",
+   "triangles_before": 72184,
+   "triangles_after": 10000
+  },
+  {
+   "mesh": "seg7",
+   "triangles_before": 67500,
+   "triangles_after": 10000
+  },
+  {
+   "mesh": "seg8",
+   "triangles_before": 114680,
+   "triangles_after": 9994
+  }
+ ],
+ "center_ras": [
+  -155.41,
+  -190.75,
+  111.75
+ ],
+ "clip": {
+  "node": 587,
+  "ras": [
+   -131.73,
+   -193.27,
+   125.5
+  ],
+  "unionML": 329.702,
+  "unionPct": 18.995,
+  "remnantML": 1405.998,
+  "remnantPct": 81.005,
+  "liverML": 1735.7
+ },
+ "rmax": 126.092,
+ "zh": 198
+}

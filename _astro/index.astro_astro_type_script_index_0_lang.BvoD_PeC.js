@@ -1,0 +1,1 @@
+import{o as e}from"./seq.BPznuau7.js";document.querySelectorAll(`video[data-bgv]`).forEach(t=>{e()||new IntersectionObserver(([e])=>{e.isIntersecting?(t.preload=`auto`,t.play().catch(()=>{})):t.pause()},{threshold:.1}).observe(t)});
